@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about Advanced Topics of JavaScript and Emotional Intelligence
 - 👯 I’m looking to collaborate and become more participatory in the IT events of the community
 - 💬 Ask me about [here](https://github.com/gislene-dossantoscarvalho/gislene-dossantoscarvalho/issues)
-- ⚡ Fun fact: cat lover and a proud mom of crazy Pinscher called Chiquinha.
+- ⚡ Fun fact: Cat lover and passionate about movies.
 
 **Languages and Frameworks:**  
 
