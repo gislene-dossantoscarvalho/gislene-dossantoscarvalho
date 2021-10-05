@@ -1,4 +1,5 @@
-### Hi there, I'm Gislene Carvalho!👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gislene Carvalho</h1>
+<img align='right' src="https://media.giphy.com/media/N9a6hDAZsszvgrJd7M/giphy.gif" width="480">
 
 - 🔭 I’m currently working on Philips Blumenau
 - 🌱 I’m currently learning about Advanced Topics of JavaScript and Emotional Intelligence
